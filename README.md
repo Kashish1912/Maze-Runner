@@ -134,7 +134,7 @@ The visualization animates both:
 
 ## Screenshots
 
-| ![Initial Grid Setup](public/screenshots/Main_Page.png) | ![Dijkstra Algorithm in Action](public/screenshots/Working.png) | ![Shortest Path Found](public/screenshots/Final_Path.png) 
+![Initial Grid Setup](public/screenshots/Main_Page.png) ![Dijkstra Algorithm in Action](public/screenshots/Working.png) ![Shortest Path Found](public/screenshots/Final_Path.png) 
 
 ---
 
