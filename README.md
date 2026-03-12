@@ -174,24 +174,18 @@ If you find this project useful, consider giving it a ⭐ on GitHub.
 
 ---
 
-## License
-
-This project is licensed under the **MIT License**.
-
----
-
 <!-- MARKDOWN LINKS -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/Kashish1912/pathfinding-visualizer.svg?style=for-the-badge
-[contributors-url]: https://github.com/Kashish1912/pathfinding-visualizer/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Kashish1912/pathfinding-visualizer.svg?style=for-the-badge
-[forks-url]: https://github.com/YOUR_USERNAME/pathfinding-visualizer/network/members
-[stars-shield]: https://img.shields.io/github/stars/YOUR_USERNAME/pathfinding-visualizer.svg?style=for-the-badge
-[stars-url]: https://github.com/YOUR_USERNAME/pathfinding-visualizer/stargazers
-[issues-shield]: https://img.shields.io/github/issues/YOUR_USERNAME/pathfinding-visualizer.svg?style=for-the-badge
-[issues-url]: https://github.com/YOUR_USERNAME/pathfinding-visualizer/issues
-[license-shield]: https://img.shields.io/github/license/YOUR_USERNAME/pathfinding-visualizer.svg?style=for-the-badge
-[license-url]: https://github.com/YOUR_USERNAME/pathfinding-visualizer/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/Kashish1912/Maze-Runner.svg?style=for-the-badge
+[contributors-url]: https://github.com/Kashish1912/Maze-Runner/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Kashish1912/Maze-Runner.svg?style=for-the-badge
+[forks-url]: https://github.com/Kashish1912/Maze-Runner/network/members
+[stars-shield]: https://img.shields.io/github/stars/Kashish1912/Maze-Runner.svg?style=for-the-badge
+[stars-url]: https://github.com/Kashish1912/Maze-Runner/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Kashish1912/Maze-Runner.svg?style=for-the-badge
+[issues-url]: https://github.com/Kashish1912/Maze-Runner/issues
+[license-shield]: https://img.shields.io/github/license/Kashish1912/Maze-Runner.svg?style=for-the-badge
+[license-url]: https://github.com/Kashish1912/Maze-Runner/blob/main/LICENSE
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
