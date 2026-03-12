@@ -135,8 +135,7 @@ The visualization animates both:
 ## Screenshots
 
 | Initial Grid Setup | Dijkstra Algorithm in Action | Shortest Path Found
-|-----------|-------------------|
-| ![Initial Grid Setup](screenshots/Main_Page.png) | ![Dijkstra Algorithm in Action](screenshots/Working.png) | ![Shortest Path Found](screenshots/Final_Path.png) |
+| ![Initial Grid Setup](public/screenshots/Main_Page.png) | ![Dijkstra Algorithm in Action](public/screenshots/Working.png) | ![Shortest Path Found](public/screenshots/Final_Path.png) 
 
 ---
 
