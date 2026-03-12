@@ -1,4 +1,3 @@
-[![MIT License][license-shield]][license-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -33,7 +32,6 @@ This project helps in understanding **graph traversal, shortest path algorithms,
 - [Screenshots](#screenshots)
 - [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -83,13 +81,13 @@ The interface shows helpful hints such as:
 ### 1 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pathfinding-visualizer.git
+git clone https://github.com/Kashish1912/Mind-Runner.git
 ```
 
 ### 2 Navigate into the project
 
 ```bash
-cd pathfinding-visualizer
+cd Mind-Runner
 ```
 
 ### 3 Install dependencies
@@ -136,9 +134,9 @@ The visualization animates both:
 
 ## Screenshots
 
-| Grid Setup | Path Visualization |
+| Initial Grid Setup | Dijkstra Algorithm in Action | Shortest Path Found
 |-----------|-------------------|
-| Add screenshot here | Add screenshot here |
+| ![Initial Grid Setup](screenshots/Main_Page.png) | ![Dijkstra Algorithm in Action](screenshots/Working.png) | ![Shortest Path Found](screenshots/Final_Path.png) |
 
 ---
 
@@ -184,8 +182,6 @@ If you find this project useful, consider giving it a ⭐ on GitHub.
 [stars-url]: https://github.com/Kashish1912/Maze-Runner/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Kashish1912/Maze-Runner.svg?style=for-the-badge
 [issues-url]: https://github.com/Kashish1912/Maze-Runner/issues
-[license-shield]: https://img.shields.io/github/license/Kashish1912/Maze-Runner.svg?style=for-the-badge
-[license-url]: https://github.com/Kashish1912/Maze-Runner/blob/main/LICENSE
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
